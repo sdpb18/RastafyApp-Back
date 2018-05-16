@@ -1,0 +1,16 @@
+.idea
+.project
+.settings
+*/build
+build
+*.class
+**/*.iml
+**/*.swp
+**/.ivy
+**/.classpath
+**/.project
+**/.sass-cache
+**/.settings
+**/bin
+**/node_modules
+_config.yml
